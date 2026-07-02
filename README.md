@@ -15,6 +15,7 @@ This project answers the question:
 **Can we predict whether a customer review is positive or negative using only the written review text?**
 
 ## Dataset
+Note: The dataset file is not included in this repository due to file size and licensing considerations. The dataset can be downloaded from Kaggle.
 
 The project uses an Amazon customer review dataset with review text and star ratings.
 
